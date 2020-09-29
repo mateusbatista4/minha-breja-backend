@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76257c16-22c3-4f57-add2-933a016e4249" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/estabelecimento/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidos/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/produtos/serialazers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedidos/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/pedidos/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedidos/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/pedidos/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedidos/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pedidos/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pedidos/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/pedidos/serializers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
